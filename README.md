@@ -35,11 +35,12 @@ The dataset includes:
 - Weak correlation between year variables and GDP values
   
 📷 Visualization
+
 <img width="1569" height="925" alt="GDP Visual" src="https://github.com/user-attachments/assets/192d8756-04f4-4888-9e71-344b7917712a" />
 
 
 <img width="1496" height="920" alt="GDP visualisation preview" src="https://github.com/user-attachments/assets/a1dac979-c267-4a65-ac37-acaede63f885" />
 
-
+Author
 Taiwo
 Aspiring Data Analyst | Python | Power BI | SQL
